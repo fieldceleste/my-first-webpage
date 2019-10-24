@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-### _{Exercise for Epicodus}_
- ## By _**{Celeste Field}**_
+### _Exercise for Epicodus_
+ ## By _**Celeste Field**_
 
  ## Description
 
- _{This site is to showcase my new talent as a web developer. It will allow
- me to practice and challenge myself with new techniques every week. As of Week 2, we will be using HTML, CSS and Markdown.}_
+ _This site is to showcase my new talent as a web developer. It will allow
+ me to practice and challenge myself with new techniques every week. As of Week 2, we will be using HTML, CSS and Markdown._
 
  ## Setup
 
@@ -17,17 +17,17 @@
 
  ## Technologies Used
 
- _{HTML}_
- _{CSS}_
- _{Javascript}_
- _{Markdown}_
+ * _HTML_
+ * _CSS_
+ * _Javascript_
+ * _Markdown_
 
  ## Contact
  *_Celeste Field_*
  *_fieldceleste@gmail.com_*
 
  ## Legal
- _{Copyright(c)2019 Celeste Field}_
- _{This software is licensed under MIT license}_
+ * _Copyright(c)2019 Celeste Field_
+ * _This software is licensed under MIT license_
 
 
