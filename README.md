@@ -10,10 +10,10 @@
 
  ## Setup
 
- *_Clone this repository_
- *_Click on the HTML file in the folder called my-first-webpage.html._
- *_The HTML page should appear in your web browser of choice._
- *_Have fun browsing through my new page!_
+ * _Clone this repository_
+ * _Click on the HTML file in the folder called my-first-webpage.html._
+ * _The HTML page should appear in your web browser of choice._
+ * _Have fun browsing through my new page!_
 
  ## Technologies Used
 
